@@ -252,12 +252,6 @@
     "category": "Haber"
   },
   {
-    "name": "Akit Tv",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png",
-    "url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8 ",
-    "category": "Haber"
-  },
-  {
     "name": "Sözcü Tv",
     "logo": "https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png",
     "url": "https://cdn900.canlitv.me/sozcutv.m3u8?tkn=54izHsMptBBHkhmwFUL2ZA&tms=1773523827&hst=www.canlitv.me&ip=188.3.7.9&utkn=25e4a3186076eb44495d29c8082441ec&ch=sozcutvcanli-hd",
@@ -280,5 +274,5 @@
     "logo": "https://upload.wikimedia.org/wikipedia/tr/0/00/Dream_TV_Logo.png",
     "url": "https://dyg-live.daioncdn.net/dreamtv/dreamtv.m3u8",
     "category": "Müzik"
-  },
+  }
 ]
