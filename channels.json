@@ -1,13 +1,13 @@
 [
   {
     "name": "TRT 1",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/TRT1_logo_%282012-2021%29.svg",
+    "logo": "https://images.seeklogo.com/logo-png/26/2/trt-1-logo-png_seeklogo-260967.png",
     "url": "https://tv-trt1.medya.trt.com.tr/master_1440.m3u8",
     "category": "Ulusal"
   },
   {
     "name": "Atv",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Atv_logo_2010.svg",
+    "logo": "https://images.seeklogo.com/logo-png/1/2/atv-logo-png_seeklogo-13363.png",
     "url": "https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1773557055&st=SGtP4n21MPtYTKLXdVDxdg&sid=88txwuy17b9z&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3",
     "category": "Ulusal"
   },
@@ -43,19 +43,19 @@
   },
   {
     "name": "Kanal 7",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/c/ce/Kanal_7_logosu.png/revision/latest?cb=20200510123252",
+    "logo": "https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png",
     "url": "https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=88tyy0mosux3&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3",
     "category": "Ulusal"
   },
   {
     "name": "Tlc",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/TLC_logo_%282023%29.svg",
+    "logo": "https://e7.pngegg.com/pngimages/479/542/png-clipart-tlc-logo.png",
     "url": "https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=a0lqQ09qSWJ3K1dKc0t2bFpoRkdMZEI3bzNzWDE1KytLazhnR3VVQ2hIST0=&sid=88tz4bbmdxcf&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3",
     "category": "Ulusal"
   },
   {
     "name": "Dmax",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/DMAX_-_Logo_2016.svg",
+    "logo": "https://e7.pngegg.com/pngimages/696/562/png-clipart-dmax-television-show-bivid-store-rtl-ii-others-television-angle.png",
     "url": "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=T0dlNWxrd0FRSUw3ZStoTW1wYTluZ3ZQYnBFcjJqWFM2THQ2NkUvbWU2ST0=&sid=88tz98ex8g8i&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3",
     "category": "Ulusal"
   },
@@ -67,7 +67,7 @@
   },
   {
     "name": "Tv8,5",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",
+    "logo": "https://www.bravaspor.com/site/o/105638/2022/12/14678289144e62ee6635ca9419908df6.png",
     "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=88tzxdh7vi37&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3",
     "category": "Ulusal"
   },
@@ -85,7 +85,7 @@
   },
   {
     "name": "TRT SPOR YILDIZ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg",
+    "logo": "https://vectorseek.com/wp-content/uploads/2025/12/TRT-Spor-Yildiz-Logo-PNG-SVG-Vector.png",
     "url": "https://trt.daioncdn.net/trtspor-yildiz/master_1440p.m3u8?platform=trtspor&sid=82eotj5sdcwi&app=6d14425d-4281-477b-8b74-49c40e4aa8b8&ce=2",
     "category": "Spor"
   },
@@ -103,7 +103,7 @@
   },
   {
     "name": "HT Spor",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlb4Ops73MSpeeM8INAhBEvP7OpraChzjd-A&s",
+    "logo": "https://app.medyaviyana.com/uploadOrjinal/1762322899_ht-spor-logo.png",
     "url": "https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=88u1c48496bj&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2",
     "category": "Spor"
   },
