@@ -13,25 +13,25 @@
   },
   {
     "name": "Kanal D",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/archive/4/4e/20240406161353%21Kanal_D.png",
+    "logo": "https://images.seeklogo.com/logo-png/7/2/kanal-d-logo-png_seeklogo-77087.png",
     "url": "https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=88ty62n9npos&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3",
     "category": "Ulusal"
   },
   {
     "name": "Show Tv",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png",
+    "logo": "https://behruzmelikov.wordpress.com/wp-content/uploads/2013/03/show-tv-logo.jpg",
     "url": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=88tybt2i5802&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3",
     "category": "Ulusal"
   },
   {
     "name": "Star Tv",
-    "logo": "https://tr.wikipedia.org/wiki/Star_TV#/media/Dosya:Star_TV_.png",
+    "logo": "https://images.seeklogo.com/logo-png/48/2/star-tv-logo-png_seeklogo-483978.png",
     "url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=88tyhqungdge&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3",
     "category": "Ulusal"
   },
   {
     "name": "Tv8",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png",
+    "logo": "https://i.imgur.com/Nk43HuV.png",
     "url": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=88tymf4cahjn&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
     "category": "Ulusal"
   },
@@ -61,7 +61,7 @@
   },
   {
     "name": "A2",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg",
+    "logo": "https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801837289.png",
     "url": "https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1773558268&st=yySutWTvA7r8KFJ8fVS3Nw&sid=88tzpsek1q5k&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3",
     "category": "Ulusal"
   },
@@ -73,13 +73,13 @@
   },
   {
     "name": "Cnbc-e",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png",
+    "logo": "https://img.cnbce.com/2/1280/720/dist/images/default.png",
     "url": "https://cnbc-e.daioncdn.net/cnbc-e/cnbc-e_720p.m3u8?e=1773548946&st=JN4OQx5EjRYSQXqnwpVVew&sid=88tzjcp7gos1&app=3a3f6622-1025-4b00-af19-6df611ff07d3&ce=2",
     "category": "Ulusal"
   },
   {
     "name": "TRT SPOR",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/25/TRT_Spor_HD_kurumsal_logo.png",
+    "logo": "https://tvf.org.tr/storage/8614/trtspor.png",
     "url": "https://trt.daioncdn.net/trtspor/master_1440p.m3u8?platform=trtspor&sid=82eow5mvm9xg&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2",
     "category": "Spor"
   },
@@ -91,13 +91,13 @@
   },
   {
     "name": "BeinSports Haber",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png",
+    "logo": "https://media04.ligtv.com.tr/img/news/2020/6/12/super-lig-heyecani-bein-sports-haberde/748_416/beIN.jpg",
     "url": "https://cdn508.canlitv.me/beinsporthaber.m3u8?tkn=gEZOmzBd1FAq_Z2lYQb29Q&tms=1773528013&hst=www.canlitv.me&ip=188.3.7.9&utkn=25e4a3186076eb44495d29c8082441ec&ch=beinsportshaber-hd",
     "category": "Spor"
   },
   {
     "name": "A Spor",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png",
+    "logo": "https://iaspr.tmgrup.com.tr/site/v3/i/livetv-player.jpg",
     "url": "https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1773558948&st=shRZD5HB5VjfPDq4d23-aA&sid=88u0q78kk6ik&app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3",
     "category": "Spor"
   },
@@ -109,31 +109,31 @@
   },
   {
     "name": "TRT HABER",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg",
+    "logo": "https://e7.pngegg.com/pngimages/898/967/png-clipart-logo-product-design-brand-font-haber-text-logo.png",
     "url": "https://tv-trthaber.medya.trt.com.tr/master_1440.m3u8",
     "category": "Haber"
   },
   {
     "name": "TRT Çocuk",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg",
+    "logo": "https://image.hurimg.com/i/hurriyet/90/0x0/617fc3aa4e3fe11174c0e47f.jpg",
     "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
     "category": "Çocuk"
   },
   {
     "name": "TRT Diyanet Çocuk",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/TRT_Diyanet_%C3%87ocuk_logo.svg",
+    "logo": "https://images.seeklogo.com/logo-png/52/2/trt-diyanet-cocuk-logo-png_seeklogo-525860.png",
     "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1440.m3u8",
     "category": "Çocuk"
   },
   {
     "name": "TRT Belgesel",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/TRT_Belgesel_logo_%282019-%29.svg",
+    "logo": "https://i.ytimg.com/vi/UjaBPDCry1M/maxresdefault.jpg",
     "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8",
     "category": "Belgesel"
   },
   {
     "name": "TRT 2",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/TRT_2_logo.svg",
+    "logo": "https://pbs.twimg.com/media/DzEsNo1WoAAjE2N.png",
     "url": "https://tv-trt2.medya.trt.com.tr/master_1440.m3u8",
     "category": "Ulusal"
   },
@@ -145,37 +145,37 @@
   },
   {
     "name": "NTV",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/NTV_%28Turkey%29_logo.svg",
+    "logo": "https://w7.pngwing.com/pngs/548/607/png-transparent-ntv-hd-logo.png",
     "url": "https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=88tskxn8ewpp&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3",
     "category": "Haber"
   },
   {
     "name": "Haber Türk",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/77/Habert%C3%BCrk_logo.svg",
+    "logo": "https://images.seeklogo.com/logo-png/30/1/haberturk-tv-ve-gazete-logo-png_seeklogo-307034.png",
     "url": "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=88tsqvki5joz&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3",
     "category": "Haber"
   },
   {
     "name": "Haber Global",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Haber_Global_logo.svg",
+    "logo": "https://i.haberglobal.com/storage/files/images/2022/01/11/mikrofon-logo-1-1-QENs.png",
     "url": "https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8",
     "category": "Haber"
   },
   {
     "name": "CNN Türk",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/59/CNN_T%C3%BCrk_logo.svg",
+    "logo": "https://cdn.mediacat.com/uploads/archive/50369.jpg",
     "url": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=Xa1Bm2aAWS8U9EX0cAyctw&e=1773519854",
     "category": "Haber"
   },
   {
     "name": "A Haber",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",
+    "logo": "https://e7.pngegg.com/pngimages/625/571/png-clipart-turkey-a-haber-news-kablo-tv-trt-haber-others-television-text.png",
     "url": "https://trkvz.daioncdn.net/ahaber/ahaber_1080p.m3u8?e=1773554435&st=7AHDB7-y7UqhLsgpONlj-g&sid=88tu0tttv9hh&app=9aedd495-cc54-4ad3-a01d-9573163f078a&ce=2",
     "category": "Haber"
   },
   {
     "name": "Flash Haber",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Flash_haber_tv_2025.png",
+    "logo": "https://www.sonkaleizmir.com/haber_resim/Flash-Haber-Halk-TV-bunyesine-katildi-160778.jpg",
     "url": "https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8",
     "category": "Haber"
   },
@@ -187,13 +187,13 @@
   },
   {
     "name": "Kanal 24",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png",
+    "logo": "https://www.turkmedya.com.tr/assets/img/logo/logo_24tv.png",
     "url": "https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8",
     "category": "Haber"
   },
   {
     "name": "TGRT Haber",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png",
+    "logo": "https://provideo.com.tr/wp-content/uploads/2025/07/tgrt-haber-logo.png",
     "url": "https://canli.tgrthaber.com/tgrt.m3u8",
     "category": "Haber"
   },
@@ -205,7 +205,7 @@
   },
   {
     "name": "Ulusal Kanal",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/7/7c/Ulusal_Kanal_Yeni_Logo.png",
+    "logo": "https://img.aydinlik.com.tr/rcman/Cw1280h720q95gc/file/aydinlik-bucket/2021/2/26/6a8332b3-2732-4e5c-a938-395a9acc57e8.jpg",
     "url": "https://cdn900.canlitv.me/ulusal.m3u8?tkn=Y2EioW505SENIux3zSxblw&tms=1773525081&hst=www.canlitv.me&ip=188.3.7.9&utkn=25e4a3186076eb44495d29c8082441ec&ch=ulusalkanal",
     "category": "Haber"
   },
@@ -235,43 +235,43 @@
   },
   {
     "name": "Ülke Tv",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/28/%C3%9Clke_TV_logo.svg",
+    "logo": "https://store.donanimhaber.com/12/63/e6/1263e6ae4bbf3a3e362f6b5100cc5d21.jpg",
     "url": "https://cdn508.canlitv.me/ulketv.m3u8?tkn=V1ZemsP4ie254NWHIppDLQ&tms=1773525773&hst=www.canlitv.me&ip=188.3.7.9&utkn=25e4a3186076eb44495d29c8082441ec&ch=ulke-tv-canli-hd",
     "category": "Haber"
   },
   {
     "name": "TVNET",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Tvnet_logo.png",
+    "logo": "https://www.albayrak.com.tr/en/wp-content/uploads/2022/09/tvnet.jpg",
     "url": "https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8",
     "category": "Haber"
   },
   {
     "name": "Akit Tv",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png",
+    "logo": "https://www.tvyayinakisi.com/wp-content/uploads/2020/05/akit-tv-logo.png",
     "url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8 ",
     "category": "Haber"
   },
   {
     "name": "Sözcü Tv",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png",
+    "logo": "https://www.anten.de/wp-content/uploads/2023/03/sozcutv.jpg",
     "url": "https://cdn900.canlitv.me/sozcutv.m3u8?tkn=54izHsMptBBHkhmwFUL2ZA&tms=1773523827&hst=www.canlitv.me&ip=188.3.7.9&utkn=25e4a3186076eb44495d29c8082441ec&ch=sozcutvcanli-hd",
     "category": "Haber"
   },
   {
     "name": "Halk Tv",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png",
+    "logo": "https://medyagunlugu.com/wp-content/uploads/2022/10/72541.png",
     "url": "https://halktv.daioncdn.net/halktv/halktv_720p.m3u8?sid=88tugpvdwicq&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3",
     "category": "Haber"
   },
   {
     "name": "Bloomberg HT",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bloomberg_HT_logo.svg",
+    "logo": "https://logowik.com/content/uploads/images/bloomberg-ht7836.jpg",
     "url": "https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?ex=1649424566&st=4Y790MeXScF5LDOhVNykUQ&tv=1&sid=88tsxlg4jkb6&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=3",
     "category": "Ekonomi"
   },
   {
     "name": "Dream TV",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/0/00/Dream_TV_Logo.png",
+    "logo": "https://images.seeklogo.com/logo-png/4/2/dream-tv-logo-png_seeklogo-43662.png",
     "url": "https://dyg-live.daioncdn.net/dreamtv/dreamtv.m3u8",
     "category": "Müzik"
   }
