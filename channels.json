@@ -219,12 +219,6 @@
     "name": "Tv 360",
     "logo": "https://www.turkmedya.com.tr/assets/img/source/jpg/tv360.jpg?v=1115",
     "url": "https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8",
-    "category": "Haber"
-  },
-  {
-    "name": "Tv 360",
-    "logo": "https://www.turkmedya.com.tr/assets/img/source/jpg/tv360.jpg?v=1115",
-    "url": "https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8",
     "category": "Ulusal"
   },
   {
